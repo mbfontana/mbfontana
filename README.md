@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello World
+`git config --global user.name "Matheus Fontana"`
 
-<!--
-**mbfontana/mbfontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I live in **Brazil** and work in [CSG International](https://www.csgi.com/) as a **Full Stack Web Developer Intern**.
 
-Here are some ideas to get you started:
+### 🛠️ **My Development Toolkit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![javascript](javascript.png)
+![html5](html5.png)
+![css3](css3.png)
+![typescript](typescript.png)
+![node.js](nodejs.png)
+![mongodb](mongodb.png)
+![mysql](mysql.png)
+![visual studio code](vscode.png)
+![git](git.png)
+![microsoft edge](msedge.png)
+
+### 🗨️ **Reach me out** via [Linkedin](https://www.linkedin.com/in/matheusfontana)
