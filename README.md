@@ -1,9 +1,9 @@
 # Hello World
 `git config --global user.name "Matheus Fontana"`
 
-During my free time, I like design end-to-end intuitive Web solutions and develop them using my full stack development toolkit.
+I like to design end-to-end intuitive Web solutions and develop them using my full stack development toolkit.
 
-Currently working as a **Software Developer Engineer** and responsible for the development mediation solutions the biggest telecommunication players using CGDC (Compiled Generalized Data Conversion) and Python 3.
+Currently working as a **Software Developer Engineer** and responsible for the development, testing and troubleshooting of solutions for mediation flows of telecommunication companies using CGDC (C based programming language) and Python.
 
 ### 🛠️ **My Development Toolkit**
 
